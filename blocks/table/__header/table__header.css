@@ -1,0 +1,13 @@
+.table__header {
+    margin: 0;
+    padding: 0;
+    text-decoration: underline;
+    font-size: 55px;
+    text-decoration-color: orange;
+    width: 700px;
+
+    margin-bottom: 50px;
+    line-height: 1.5;
+
+
+}

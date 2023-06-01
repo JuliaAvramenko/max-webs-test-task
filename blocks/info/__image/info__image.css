@@ -1,0 +1,13 @@
+.info__image {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid orange;
+
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    color: orange;
+}

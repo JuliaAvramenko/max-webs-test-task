@@ -1,0 +1,17 @@
+.pages {
+    font-family: "Inter", Arial, sans-serif;
+    max-width: 1251px;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    flex-direction: column;
+
+    width: 100%;
+    height: 100%;
+    position: relative;
+    z-index: 1;
+
+    background-image: url(../../images/pixel_Фон_точки.png);
+
+
+}

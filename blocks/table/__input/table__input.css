@@ -1,0 +1,9 @@
+.table__input {
+    width: 197px;
+    display: flex;
+    text-align: center;
+    font-size: 15px;
+    background-color: rgb(243, 240, 240);
+    border: 1px solid;
+    border-color: rgb(225, 225, 225);
+}

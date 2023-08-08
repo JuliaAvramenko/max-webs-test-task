@@ -1,3 +1,4 @@
 # Проект: Тестовое задание 
+Задание для вакансии
 
-Github Pages link: https://juliaavramenko.github.io/max-webs-test-task/
+Github Pages: https://juliaavramenko.github.io/max-webs-test-task/
